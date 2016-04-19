@@ -54,5 +54,4 @@ $ env command=/bin/bash src_volume=~/ros/src sh gazebo/run.sh
 ```
 
 If anything misbehaves or is downright broken, feel free to disturb me
-anytime (you'll have to find my email address for yourself, because of
-the goddamn spam).
+anytime.
