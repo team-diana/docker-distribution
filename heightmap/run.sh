@@ -1,7 +1,6 @@
 
 name=ctr-ros-heightmap
-src_volume=${src_volume:-/mnt/lxc/ros-src} 
-src_volume=${src_volume:-${src_volume}}
+src_volume=${src_volume:-/mnt/lxc/ros-src}
 command=${1:-rosrun heightmap heightmap_node}
 
 
